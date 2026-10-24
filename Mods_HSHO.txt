@@ -1,0 +1,4 @@
+# Online mod folders (Google Drive) - managed from the launcher Admin panel.
+# One folder per line:  Label | link or folder id.  Files are installed into the player's HSHO folder with the same sub-folders.
+# rev: 2026-10-24T14:11:42Z
+11gzxEkVPNJaMnnCVDASx3f3hBsSYhBbN
