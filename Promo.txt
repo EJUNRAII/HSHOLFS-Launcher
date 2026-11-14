@@ -1,4 +1,4 @@
 # Promote server slideshow - one picture per line, shown in this order
-promo-db190338.jpg
+promo-84d9c469.jpg
 promo-71c1dbe5.jpg
 promo-8abc3b7d.jpg
